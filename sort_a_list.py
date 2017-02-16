@@ -46,10 +46,6 @@ print(type(entry_3))
 
 spam = [entry_1, entry_2, entry_3]
 
-#spam[0] = int(spam[0])
-#spam[1] = int(spam[1])
-#spam[2] = int(spam[2])
-
 
 print('Printed values are: ')
 print(spam)
