@@ -21,7 +21,7 @@ Type 2 to use the reverse Sort method''')
     elif choice == '2':
         reverse_order(spam)
 
-#def analyze_list():
+#Program Starts Here
 
 
 entry_1 = input('Please enter the first NUMERIC char: ')
@@ -41,7 +41,7 @@ print(type(entry_1))
 print(type(entry_2))
 print(type(entry_3))
 
-
+#this code is in a branch
 
 
 spam = [entry_1, entry_2, entry_3]
